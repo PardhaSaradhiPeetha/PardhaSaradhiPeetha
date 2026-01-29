@@ -47,13 +47,11 @@ Focused on automation, CI/CD pipelines, and building reliable, maintainable syst
 </p>
 
 ---
-
 ## Operating Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nixos,ubuntu,popos" />
-</p>
-
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white)
 ---
 
 ## What I’m Working On
