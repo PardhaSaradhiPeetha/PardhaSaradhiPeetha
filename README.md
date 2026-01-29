@@ -1,42 +1,45 @@
-<!-- ========================================================= -->
-<!--                 GitHub Profile README                     -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--               GitHub Profile README                   -->
+<!-- ===================================================== -->
 
-<h1 align="center">Pardha Saradhi Peetha</h1>
+<h2 align="center">Pardha Saradhi Peetha</h2>
 <p align="center">
-  Aspiring DevOps Engineer • Full Stack Developer
+  DevOps Enthusiast • Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=DevOps+%7C+Cloud+%7C+CI%2FCD;Automation+and+Scalable+Systems;Continuous+Learning" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,git" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PardhaSaradhiPeetha&style=flat-square&color=grey" />
+  <img src="https://komarev.com/ghpvc/?username=PardhaSaradhiPeetha&style=flat-square&color=6b7280" />
 </p>
 
 ---
 
-## About
+## Profile
 
-- Computer Science graduate with a strong foundation in software engineering  
-- Currently focused on **DevOps practices and cloud-native development**  
-- Interested in **automation, CI/CD pipelines, system reliability, and scalability**  
-- Hands-on experience with full stack development and modern tooling  
-- Consistent learner, project-driven, and detail-oriented  
+I am a Computer Science graduate with experience in full stack development and a growing focus on DevOps and cloud technologies.  
+I enjoy building reliable systems, automating workflows, and improving deployment pipelines.
+
+My interests include:
+- CI/CD automation  
+- Containerized applications  
+- Linux systems  
+- Cloud infrastructure fundamentals  
 
 ---
 
-## Technical Skills
+## Technology Stack
 
-### Programming & Scripting
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,bash,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,bash" />
 </p>
 
-### Frontend Development
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### Backend & Databases
@@ -44,36 +47,49 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### DevOps & Tooling
+### DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,githubactions" />
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PardhaSaradhiPeetha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PardhaSaradhiPeetha&show_icons=true&hide_border=true&theme=github_dark" height="155"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PardhaSaradhiPeetha&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PardhaSaradhiPeetha&hide_border=true&theme=github-dark-blue" height="155"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PardhaSaradhiPeetha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PardhaSaradhiPeetha&layout=compact&hide_border=true&theme=github_dark"/>
 </p>
 
 ---
 
-## Currently Learning
+## Focus Areas
 
-- Docker and container-based workflows  
-- CI/CD pipeline design and automation  
+- Docker and container-based deployments  
+- CI/CD pipelines using GitHub Actions  
 - Cloud fundamentals (AWS)  
-- Linux system administration  
-- Infrastructure and deployment best practices  
+- Linux administration and shell scripting  
+- Writing maintainable, production-ready code  
+
+---
+
+## Selected Work
+
+- **Full Stack Web Applications**  
+  React, Node.js, Express, MongoDB based projects with authentication and REST APIs.
+
+- **Automation Scripts**  
+  Bash and Node.js scripts to automate development workflows.
+
+- **CI/CD Experiments**  
+  Hands-on practice with GitHub Actions for build and deployment automation.
 
 ---
 
@@ -81,15 +97,15 @@
 
 <p>
   <a href="https://github.com/PardhaSaradhiPeetha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Building reliable systems through clean code and automation</sub>
+  <sub>Focused on building scalable systems and learning DevOps practices</sub>
 </p>
