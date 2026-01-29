@@ -1,76 +1,64 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ========================================================= -->
+<!--                 GitHub Profile README                     -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Pardha Saradhi</h1>
-<h3 align="center">Aspiring DevOps Engineer | Full Stack Developer</h3>
-
+<h1 align="center">Pardha Saradhi Peetha</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+DevOps+and+Cloud;Building+Scalable+Applications;Automation+%7C+CI%2FCD+%7C+Linux&center=true&width=500&height=45">
+  Aspiring DevOps Engineer • Full Stack Developer
 </p>
 
 <p align="center">
-  <a href="https://github.com/PardhaSaradhiPeetha">
-    <img src="https://komarev.com/ghpvc/?username=PardhaSaradhiPeetha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=DevOps+%7C+Cloud+%7C+CI%2FCD;Automation+and+Scalable+Systems;Continuous+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PardhaSaradhiPeetha&style=flat-square&color=grey" />
 </p>
 
 ---
 
-## 💫 About Me
+## About
 
-- 🎓 Computer Science Graduate  
-- 🚀 Currently learning **DevOps & Cloud Technologies**
-- 🔧 Passionate about **automation, CI/CD, and scalable systems**
-- 🧠 Strong foundation in **Full Stack Development**
-- 💡 Love solving real-world problems with technology
-- 🌱 Always learning, always building
+- Computer Science graduate with a strong foundation in software engineering  
+- Currently focused on **DevOps practices and cloud-native development**  
+- Interested in **automation, CI/CD pipelines, system reliability, and scalability**  
+- Hands-on experience with full stack development and modern tooling  
+- Consistent learner, project-driven, and detail-oriented  
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 👨‍💻 Programming & Scripting
+### Programming & Scripting
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,bash,javascript,typescript" />
 </p>
 
-### 🌐 Frontend
+### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### ☁️ DevOps & Tools
+### DevOps & Tooling
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,githubactions" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PardhaSaradhiPeetha&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PardhaSaradhiPeetha&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PardhaSaradhiPeetha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PardhaSaradhiPeetha&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -79,29 +67,29 @@
 
 ---
 
-## 📌 What I'm Currently Learning
+## Currently Learning
 
-- 🐳 Docker & Containerization  
-- 🔁 CI/CD Pipelines  
-- ☁️ Cloud Fundamentals (AWS)  
-- 🖥️ Linux System Administration  
-- 📦 Infrastructure Automation (Basics)
+- Docker and container-based workflows  
+- CI/CD pipeline design and automation  
+- Cloud fundamentals (AWS)  
+- Linux system administration  
+- Infrastructure and deployment best practices  
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
 <p>
   <a href="https://github.com/PardhaSaradhiPeetha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ From <strong>Pardha Saradhi</strong> — building skills one commit at a time
+  <sub>Building reliable systems through clean code and automation</sub>
 </p>
