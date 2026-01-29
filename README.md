@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--               GitHub Profile README                   -->
+<!--              GitHub Profile README                    -->
 <!-- ===================================================== -->
 
 <h2 align="center">Pardha Saradhi Peetha</h2>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,git" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,githubactions" />
 </p>
 
 <p align="center">
@@ -19,25 +19,19 @@
 
 ## Profile
 
-I am a Computer Science graduate with experience in full stack development and a growing focus on DevOps and cloud technologies.  
-I enjoy building reliable systems, automating workflows, and improving deployment pipelines.
-
-My interests include:
-- CI/CD automation  
-- Containerized applications  
-- Linux systems  
-- Cloud infrastructure fundamentals  
+Computer Science graduate with hands-on experience in full stack development and a strong interest in DevOps practices.  
+Focused on automation, CI/CD pipelines, and building reliable, maintainable systems.
 
 ---
 
 ## Technology Stack
 
-### Languages
+### Programming & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,bash" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,bash,javascript,typescript" />
 </p>
 
-### Frontend
+### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
@@ -54,42 +48,26 @@ My interests include:
 
 ---
 
-## GitHub Overview
+## What I’m Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PardhaSaradhiPeetha&show_icons=true&hide_border=true&theme=github_dark" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PardhaSaradhiPeetha&hide_border=true&theme=github-dark-blue" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PardhaSaradhiPeetha&layout=compact&hide_border=true&theme=github_dark"/>
-</p>
+- Containerizing applications using Docker  
+- Designing CI/CD pipelines with GitHub Actions  
+- Improving Linux and shell scripting skills  
+- Writing clean, maintainable code  
+- Exploring deployment best practices  
 
 ---
 
-## Focus Areas
-
-- Docker and container-based deployments  
-- CI/CD pipelines using GitHub Actions  
-- Cloud fundamentals (AWS)  
-- Linux administration and shell scripting  
-- Writing maintainable, production-ready code  
-
----
-
-## Selected Work
+## Selected Projects
 
 - **Full Stack Web Applications**  
-  React, Node.js, Express, MongoDB based projects with authentication and REST APIs.
+  Built scalable applications using React, Node.js, Express, and MongoDB with authentication and REST APIs.
 
-- **Automation Scripts**  
-  Bash and Node.js scripts to automate development workflows.
+- **CI/CD Automation**  
+  Implemented automated workflows using GitHub Actions for build, test, and deployment processes.
 
-- **CI/CD Experiments**  
-  Hands-on practice with GitHub Actions for build and deployment automation.
+- **Utility Scripts**  
+  Created Bash and JavaScript scripts to automate development and deployment tasks.
 
 ---
 
@@ -107,5 +85,5 @@ My interests include:
 ---
 
 <p align="center">
-  <sub>Focused on building scalable systems and learning DevOps practices</sub>
+  <sub>Focused on automation, reliability, and continuous learning</sub>
 </p>
