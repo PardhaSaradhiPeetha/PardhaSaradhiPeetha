@@ -48,13 +48,21 @@ Focused on automation, CI/CD pipelines, and building reliable, maintainable syst
 
 ---
 
+## Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nixos,ubuntu,popos" />
+</p>
+
+---
+
 ## What I’m Working On
 
 - Containerizing applications using Docker  
 - Designing CI/CD pipelines with GitHub Actions  
-- Improving Linux and shell scripting skills  
+- Improving Linux system administration and shell scripting  
 - Writing clean, maintainable code  
-- Exploring deployment best practices  
+- Exploring deployment and release best practices  
 
 ---
 
@@ -67,7 +75,7 @@ Focused on automation, CI/CD pipelines, and building reliable, maintainable syst
   Implemented automated workflows using GitHub Actions for build, test, and deployment processes.
 
 - **Utility Scripts**  
-  Created Bash and JavaScript scripts to automate development and deployment tasks.
+  Created Bash and JavaScript scripts to automate development and development workflows.
 
 ---
 
