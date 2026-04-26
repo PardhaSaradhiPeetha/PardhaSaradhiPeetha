@@ -33,7 +33,7 @@
 
 <h4>Programming &amp; Scripting</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,bash,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,bash,javascript,sql" />
 </p>
 
 <h4>Frontend Development</h4>
@@ -80,7 +80,7 @@
 <ul>
   <li>
     <strong>Full Stack Web Applications</strong><br />
-    Developed scalable MERN stack applications with authentication, REST APIs, and optimized performance using Redis.
+    Developed scalable MERN stack applications with authentication, REST APIs, and optimized performance using Redis and SQL databases.
   </li>
   <br />
   <li>
