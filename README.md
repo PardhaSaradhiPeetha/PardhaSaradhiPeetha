@@ -5,11 +5,11 @@
 <h2 align="center">Pardha Saradhi Peetha</h2>
 
 <p align="center">
-  DevOps Enthusiast &nbsp;•&nbsp; Full Stack Developer
+  Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker" />
 </p>
 
 <p align="center">
@@ -21,9 +21,10 @@
 <h3>Profile</h3>
 
 <p>
-  Computer Science graduate with hands-on experience in full stack development and a strong
-  interest in DevOps practices. Focused on automation, CI/CD pipelines, and building reliable,
-  maintainable systems.
+  Computer Science graduate with strong experience in full stack development. Skilled in building
+  scalable web applications using the MERN stack, working with Redis for performance optimization,
+  and Docker for containerization. Passionate about Data Structures & Algorithms, Linux systems,
+  and writing efficient, maintainable code.
 </p>
 
 <hr />
@@ -42,12 +43,12 @@
 
 <h4>Backend &amp; Databases</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
 </p>
 
-<h4>DevOps &amp; Tools</h4>
+<h4>Tools &amp; Technologies</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker" />
 </p>
 
 <hr />
@@ -57,7 +58,7 @@
 <p>
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
 </p>
 
 <hr />
@@ -65,11 +66,11 @@
 <h3>What I’m Working On</h3>
 
 <ul>
-  <li>Containerizing applications using Docker</li>
-  <li>Designing CI/CD pipelines with GitHub Actions</li>
-  <li>Improving Linux system administration and shell scripting</li>
-  <li>Writing clean, maintainable code</li>
-  <li>Exploring deployment and release best practices</li>
+  <li>Building full stack applications using the MERN stack</li>
+  <li>Optimizing performance using Redis caching</li>
+  <li>Containerizing applications with Docker</li>
+  <li>Practicing Data Structures & Algorithms</li>
+  <li>Improving Linux system administration (Ubuntu, Debian, NixOS)</li>
 </ul>
 
 <hr />
@@ -79,18 +80,17 @@
 <ul>
   <li>
     <strong>Full Stack Web Applications</strong><br />
-    Built scalable applications using React, Node.js, Express, and MongoDB with authentication
-    and REST APIs.
+    Developed scalable MERN stack applications with authentication, REST APIs, and optimized performance using Redis.
   </li>
   <br />
   <li>
-    <strong>CI/CD Automation</strong><br />
-    Implemented automated workflows using GitHub Actions for build, test, and deployment processes.
+    <strong>Containerized Applications</strong><br />
+    Built and deployed applications using Docker for consistent development and production environments.
   </li>
   <br />
   <li>
-    <strong>Utility Scripts</strong><br />
-    Created Bash and JavaScript scripts to automate development workflows.
+    <strong>DSA Practice & Utilities</strong><br />
+    Implemented core Data Structures & Algorithms and created utility scripts using Bash and JavaScript.
   </li>
 </ul>
 
@@ -111,5 +111,5 @@
 <hr />
 
 <p align="center">
-  <sub>Focused on automation, reliability, and continuous learning</sub>
+  <sub>Focused on building scalable applications and continuous learning</sub>
 </p>
